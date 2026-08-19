@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant, UC Riverside"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate and graduate courses"
+permalink: /teaching/ucr-teaching-assistant
+venue: "University of California, Riverside, Department of Electrical and Computer Engineering"
+date: 2024-04-01
+location: "Riverside, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**EE 246 — Intelligent Transportation Systems** (Spring 2024)
 
-Heading 1
-======
+Graduate course. Led discussion sections, designed homework problems, and proctored exams.
 
-Heading 2
-======
+**EE 005 — Circuits and Electronics** (Winter 2022)
 
-Heading 3
-======
+Lower-division undergraduate course. Led discussion sections, developed laboratory
+experiments and homework problems, and proctored exams.
