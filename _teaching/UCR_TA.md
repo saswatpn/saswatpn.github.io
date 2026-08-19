@@ -2,6 +2,7 @@
 title: "Teaching Assistant, UC Riverside"
 collection: teaching
 type: "Undergraduate and graduate courses"
+venue: "University of California, Riverside, Department of Electrical and Computer Engineering"
 date: 2024-04-01
 ---
 
