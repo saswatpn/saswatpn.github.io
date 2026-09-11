@@ -22,7 +22,7 @@ ION International Technical Meeting (ITM), Long Beach, CA, USA
 
 **Infrastructure-assisted cooperative state estimation of ego-vehicle** — *(poster)*
 Transportation Research Board (TRB) Annual Meeting, Washington, DC, USA
-[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EvFGw-cAAAAJ&citation_for_view=EvFGw-cAAAAJ:Tyk-4Ss8FVUC)
+[Link]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EvFGw-cAAAAJ&citation_for_view=EvFGw-cAAAAJ:Tyk-4Ss8FVUC](https://www.linkedin.com/posts/saswat-priyadarshi-nayak-3bba9bb7_trb2024-transportationresearch-activity-7152741135856140288-U4J1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjmTX8BNZ923j8UNf78PV1-4Nr4io0T8CI))
 
 ## 2023
 
@@ -33,7 +33,7 @@ EcoCAR EV Challenge, Year 1, Orlando, FL, USA
 **Evaluation of infrastructure-assisted cooperative tracking of vehicles using various motion models** — *(talk)*
 IEEE/ION Position, Location and Navigation Symposium (PLANS), Monterey, CA, USA
 [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EvFGw-cAAAAJ&citation_for_view=EvFGw-cAAAAJ:IjCSPb-OGe4C)
-[Link](https://www.linkedin.com/posts/saswat-priyadarshi-nayak-3bba9bb7_pnt-ieee-ion-activity-7058149977746800640-r8Dc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjmTX8BNZ923j8UNf78PV1-4Nr4io0T8CI)
+[Link](https://www.linkedin.com/posts/saswat-priyadarshi-nayak-3bba9bb7_research-transportation-trbam2023-activity-7022087315443355648-fYGA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjmTX8BNZ923j8UNf78PV1-4Nr4io0T8CI)
 
 **Infrastructure-LiDAR-assisted vehicle positioning** — *(poster)*
 Transportation Research Board (TRB) Annual Meeting, Washington, DC, USA
@@ -44,3 +44,8 @@ Transportation Research Board (TRB) Annual Meeting, Washington, DC, USA
 **Cooperative perception and motion planning for interacting vehicles** — *(poster)*
 Summer School on Cooperative Interacting Vehicles (3rd edition), Lake Tahoe, CA, USA
 [Link](https://civ-summerschool.org/civ2022/)
+
+## 2021
+**Inverse geometric guidance strategy for a three-body differential game** — *(talk)*
+AIAA Scitech 2021 Forum, Session: Multi-Agent Control and Coordination I, Virtual Event
+[Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2021-1765)
