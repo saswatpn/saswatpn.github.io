@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The Road ~~Not~~ Taken ✅
+Life Events
 ======
 
 
