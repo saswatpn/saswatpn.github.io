@@ -33,7 +33,7 @@ EcoCAR EV Challenge, Year 1, Orlando, FL, USA
 **Evaluation of infrastructure-assisted cooperative tracking of vehicles using various motion models** — *(talk)*
 IEEE/ION Position, Location and Navigation Symposium (PLANS), Monterey, CA, USA
 [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EvFGw-cAAAAJ&citation_for_view=EvFGw-cAAAAJ:IjCSPb-OGe4C)
-[Link](https://www.linkedin.com/posts/saswat-priyadarshi-nayak-3bba9bb7_research-transportation-trbam2023-activity-7022087315443355648-fYGA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjmTX8BNZ923j8UNf78PV1-4Nr4io0T8CI)
+[Link](https://www.linkedin.com/posts/saswat-priyadarshi-nayak-3bba9bb7_pnt-ieee-ion-activity-7058149977746800640-r8Dc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjmTX8BNZ923j8UNf78PV1-4Nr4io0T8CI)
 
 **Infrastructure-LiDAR-assisted vehicle positioning** — *(poster)*
 Transportation Research Board (TRB) Annual Meeting, Washington, DC, USA
