@@ -22,7 +22,7 @@ ION International Technical Meeting (ITM), Long Beach, CA, USA
 
 **Infrastructure-assisted cooperative state estimation of ego-vehicle** — *(poster)*
 Transportation Research Board (TRB) Annual Meeting, Washington, DC, USA
-[Link]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EvFGw-cAAAAJ&citation_for_view=EvFGw-cAAAAJ:Tyk-4Ss8FVUC](https://www.linkedin.com/posts/saswat-priyadarshi-nayak-3bba9bb7_trb2024-transportationresearch-activity-7152741135856140288-U4J1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjmTX8BNZ923j8UNf78PV1-4Nr4io0T8CI))
+[Link](https://www.linkedin.com/posts/saswat-priyadarshi-nayak-3bba9bb7_trb2024-transportationresearch-activity-7152741135856140288-U4J1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjmTX8BNZ923j8UNf78PV1-4Nr4io0T8CI)
 
 ## 2023
 
