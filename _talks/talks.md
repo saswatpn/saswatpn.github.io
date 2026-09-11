@@ -47,5 +47,5 @@ Summer School on Cooperative Interacting Vehicles (3rd edition), Lake Tahoe, CA,
 
 ## 2021
 **Inverse geometric guidance strategy for a three-body differential game** — *(talk)*
-AIAA Scitech 2021 Forum, Session: Multi-Agent Control and Coordination I, Virtual Event
+AIAA Scitech 2021 Forum, Session: Multi-Agent Control and Coordination - I, Virtual Event
 [Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2021-1765)
