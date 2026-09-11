@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-The Road ~~Not~~ Taken &#10003; Done
+The Road ~~Not~~ Taken ✅
 ======
 
 
