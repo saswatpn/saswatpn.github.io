@@ -1,11 +1,8 @@
 ---
-title: "Awards"
+title: "Awards and Nominations"
 permalink: /Awards/
 author_profile: true
 ---
-
-Awards and Nominations
-======
 
 | Year | Award |
 |:-----|:------|
